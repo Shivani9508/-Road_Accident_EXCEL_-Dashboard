@@ -1,5 +1,11 @@
 # Road_Accident_EXCEL_Dashboard
 
+<img width="1226" alt="Road Accident Dashboard" src="https://github.com/Shivani9508/-Road_Accident_EXCEL_-Dashboard/assets/142001944/b965f8f3-10eb-4a17-8819-b158b81bbb92">
+
+
+
+
+
 Project Requirements :
 Client wants to create a Road accident dashboard for year 2021 and 2022 so that they can have insights on the below Requirements :
 
